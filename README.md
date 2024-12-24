@@ -5,6 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gayashandev7&label=Profile%20views&color=0e75b6&style=flat" alt="gayashandev7" /> </p>
 
 <p align="center"> I’m currently learning Java, Arduino</p>
+<P align="center">I'm currently studying at the University of NIBM</P>
 
 <h3 align="center">I am skilled in designing UI/UX.</h3>
 <p align="center">
